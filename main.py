@@ -30,7 +30,7 @@ if __name__ == "__main__":
     output = query_model(model, prompt)
 
     # Sauvegarde brute
-    with open("data/output_raw.tsv", "w", encoding="utf-8") as f:
+    with open("data/output_raw.csv", "w", encoding="utf-8") as f:
         f.write(output)
 
     # Nettoyage : suppression lignes vides ou parasites

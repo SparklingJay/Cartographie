@@ -4,27 +4,26 @@ Utilise exclusivement les familles de métiers suivantes :
 1. Administration et pilotage
 2. Communication
 3. Enseignement
-4. Finances/Comptabilité
+4. Finances et Comptabilité
 5. Informatique NTIC
 6. Juridique
 7. Pédagogie et accompagnement des étudiants (ingénierie pédagogique)
 8. Recherche et ingénierie
 9. Ressources humaines
-10. Santé/Social
-11. Scolarité et gestion des étudiants
+10. Scolarité et gestion des étudiants
 
 Objectifs :  
-1. Pour chaque famille, identifier **des métiers types** existant dans une université française.  
-2. Pour chaque métier, identifier **des tâches typiques** qui pourraient impliquer l’utilisation de l’IAg.  
-3. Pour chaque tâche, estimer un **niveau d’impact potentiel** (faible, moyen, fort).  
-4. Identifier les **risques et détournements possibles** pour chacune de ces tâches.
+1. Pour chaque famille, identifier **des métiers types** existant dans une université française
+2. Pour chaque métier, identifier trois ** tâches typiques** concrètes qui pourraient impliquer l’utilisation de l’IA générative
+3. Pour chaque tâche, estimer un **niveau d’impact potentiel** (faible, moyen, fort)
 
+Attention à bien regrouper les métiers avec des tâches similaires. Par exemple, les professeurs d'université et maîtres de conférence sont tous deux enseignants et ont les mêmes tâches. 
 
-Réponds UNIQUEMENT en **CSV brut**, avec les colonnes suivantes :  
-- Groupe de métiers  
-- Métiers  
-- Tâches typiques  
-- Impact estimé (faible, moyen, fort)  
-- Risques et détournements (séparés par un `;` si plusieurs)  
+Format de sortie :
+- Génère UNIQUEMENT le tableau au format CSV
+- Utilise le point-virgule (`;`) comme séparateur
+- N’utilise PAS de guillemets autour des cellules, même si elles contiennent des espaces ou des virgules
+- Une seule ligne d’en-tête
+- Chaque ligne suivante correspond à un métier et une tâche
+- Ne génère AUCUN autre texte (pas de commentaire, pas d’explication avant ou après)
 
-IMPORTANT : génère un CSV strictement valide, sans saut de ligne dans les cellules, sans guillemets non fermés, et sans ajouter de texte avant ou après le tableau. Utilise uniquement la virgule comme séparateur.
