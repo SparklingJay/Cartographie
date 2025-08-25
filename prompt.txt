@@ -3,19 +3,16 @@ Je travaille sur une cartographie des métiers impactés par l’intelligence ar
 Utilise exclusivement les familles de métiers suivantes :  
 1. Administration et pilotage
 2. Communication
-3. Entretien et moyens généraux
-4. Enseignement
-5. Finances/Comptabilité
-6. Informatique NTIC
-7. Juridique
-8. Logistique/Maintenance
-9. Patrimoine/Développement durable
-10. Pédagogie et accompagnement des étudiants (gestion des formations)
-11. Recherche et ingénierie (doctorat, post-doc, laboratoire...)
-12. Ressources humaines
-13. Santé/Social
-14. Scolarité des étudiants (gestion scolarité, diplôme et administration étudiante)
-15. Bibliothèques  
+3. Enseignement
+4. Finances/Comptabilité
+5. Informatique NTIC
+6. Juridique
+7. Pédagogie et accompagnement des étudiants (ingénierie pédagogique)
+8. Recherche et ingénierie (doctorat, post-doc, laboratoire...)
+9. Ressources humaines
+10. Santé/Social
+11. Scolarité des étudiants (gestion scolarité, diplôme et administration étudiante)
+12. Bibliothèques  
 
 Objectifs :  
 1. Pour chaque famille, identifier **des métiers types** existant dans une université française.  
@@ -30,3 +27,5 @@ Réponds UNIQUEMENT en **CSV brut**, avec les colonnes suivantes :
 - Tâches typiques  
 - Impact estimé (faible, moyen, fort)  
 - Risques et détournements (séparés par un `;` si plusieurs)  
+
+IMPORTANT : génère un CSV strictement valide, sans saut de ligne dans les cellules, sans guillemets non fermés, et sans ajouter de texte avant ou après le tableau. Utilise uniquement la virgule comme séparateur.

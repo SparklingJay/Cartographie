@@ -1,9 +1,8 @@
 import os
-import json
 import pandas as pd
-from tabulate import tabulate
 from groq import Groq
 from dotenv import load_dotenv
+from io import StringIO
 
 # Charger la clé API depuis .env
 load_dotenv()
@@ -14,14 +13,14 @@ def query_model(model_name: str, prompt: str) -> str:
         model=model_name,
         messages=[{"role": "user", "content": prompt}],
         temperature=0.2,
-        max_tokens=2000
+        max_tokens=3500
     )
     return response.choices[0].message.content
 
 
 if __name__ == "__main__":
     # Choisir le modèle que tu veux tester
-    model = "openai/gpt-oss-120b"
+    model = "openai/gpt-oss-20b"
 
     # Charger le prompt depuis un fichier externe
     with open("prompt.txt", "r", encoding="utf-8") as f:
@@ -31,14 +30,17 @@ if __name__ == "__main__":
     output = query_model(model, prompt)
 
     # Sauvegarde brute
-    with open("data/output_openai.txt", "w", encoding="utf-8") as f:
+    with open("data/output_raw.tsv", "w", encoding="utf-8") as f:
         f.write(output)
 
-    # Tentative de parsing JSON (si le modèle respecte bien le format)
+    # Nettoyage : suppression lignes vides ou parasites
+    clean_output = "\n".join([line for line in output.splitlines() if line.strip()])
+
+    # Conversion en DataFrame
     try:
-        data = json.loads(output)
-        df = pd.DataFrame(data)
+        df = pd.read_csv(StringIO(output))
         df.to_excel("data/table_metiers.xlsx", index=False)
-        print(tabulate(df, headers="keys", tablefmt="grid"))
-    except json.JSONDecodeError:
-        print("⚠️ Impossible de parser la sortie en JSON. Vérifie la réponse brute.")
+        print("✅ Tableau exporté vers data/table_metiers.xlsx")
+        print(df.head())
+    except Exception as e:
+        print("⚠️ Erreur lors de la lecture du CSV :", e)
