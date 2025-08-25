@@ -8,15 +8,14 @@ Utilise exclusivement les familles de métiers suivantes :
 5. Informatique NTIC
 6. Juridique
 7. Pédagogie et accompagnement des étudiants (ingénierie pédagogique)
-8. Recherche et ingénierie (doctorat, post-doc, laboratoire...)
+8. Recherche et ingénierie
 9. Ressources humaines
 10. Santé/Social
-11. Scolarité des étudiants (gestion scolarité, diplôme et administration étudiante)
-12. Bibliothèques  
+11. Scolarité et gestion des étudiants
 
 Objectifs :  
 1. Pour chaque famille, identifier **des métiers types** existant dans une université française.  
-2. Pour chaque métier, identifier une dizaine **de tâches typiques** qui pourraient impliquer l’utilisation de l’IAg.  
+2. Pour chaque métier, identifier **des tâches typiques** qui pourraient impliquer l’utilisation de l’IAg.  
 3. Pour chaque tâche, estimer un **niveau d’impact potentiel** (faible, moyen, fort).  
 4. Identifier les **risques et détournements possibles** pour chacune de ces tâches.
 

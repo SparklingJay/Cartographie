@@ -13,7 +13,7 @@ def query_model(model_name: str, prompt: str) -> str:
         model=model_name,
         messages=[{"role": "user", "content": prompt}],
         temperature=0.2,
-        max_tokens=3500
+        max_tokens=5500
     )
     return response.choices[0].message.content
 
