@@ -1,0 +1,32 @@
+Je travaille sur une cartographie des métiers impactés par l’intelligence artificielle générative (IAg) dans une université.  
+
+Utilise exclusivement les familles de métiers suivantes :  
+1. Administration et pilotage
+2. Communication
+3. Entretien et moyens généraux
+4. Enseignement
+5. Finances/Comptabilité
+6. Informatique NTIC
+7. Juridique
+8. Logistique/Maintenance
+9. Patrimoine/Développement durable
+10. Pédagogie et accompagnement des étudiants (gestion des formations)
+11. Recherche et ingénierie (doctorat, post-doc, laboratoire...)
+12. Ressources humaines
+13. Santé/Social
+14. Scolarité des étudiants (gestion scolarité, diplôme et administration étudiante)
+15. Bibliothèques  
+
+Objectifs :  
+1. Pour chaque famille, identifier **des métiers types** existant dans une université française.  
+2. Pour chaque métier, identifier une dizaine **de tâches typiques** qui pourraient impliquer l’utilisation de l’IAg.  
+3. Pour chaque tâche, estimer un **niveau d’impact potentiel** (faible, moyen, fort).  
+4. Identifier les **risques et détournements possibles** pour chacune de ces tâches.
+
+
+Réponds UNIQUEMENT en **CSV brut**, avec les colonnes suivantes :  
+- Groupe de métiers  
+- Métiers  
+- Tâches typiques  
+- Impact estimé (faible, moyen, fort)  
+- Risques et détournements (séparés par un `;` si plusieurs)  

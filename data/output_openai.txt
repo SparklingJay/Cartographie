@@ -1,0 +1,95 @@
+[
+  {
+    "groupe_metiers": "Enseignement et pédagogiques",
+    "metier": "Enseignant·e",
+    "taches_typiques": [
+      "Élaborer des plans de cours",
+      "Concevoir des supports pédagogiques (slides, fiches)",
+      "Corriger des copies et des devoirs",
+      "Animer des séances magistrales ou travaux dirigés",
+      "Créer des évaluations (QCM, études de cas)",
+      "Personnaliser le suivi des étudiants grâce à des tableaux de bord IA",
+      "Utiliser des assistants IA pour répondre aux questions des étudiants en dehors des cours",
+      "Générer des simulations ou laboratoires virtuels",
+      "Traduire des contenus pédagogiques dans d’autres langues",
+      "Mettre à jour les référentiels de compétences"
+    ],
+    "impact": [
+      "faible",
+      "moyen",
+      "faible",
+      "faible",
+      "moyen",
+      "fort",
+      "fort",
+      "fort",
+      "moyen",
+      "faible"
+    ],
+    "risques": [
+      "Standardisation excessive du programme, perte de créativité",
+      "Biais ou inexactitudes dans les supports générés automatiquement",
+      "Déshumanisation de la correction, risque d’erreurs non détectées",
+      "Réduction de l’interaction directe, perte d’engagement",
+      "Sur‑évaluation de la difficulté ou biais de contenu",
+      "Violation de la confidentialité des données étudiantes",
+      "Propagation de réponses erronées ou non vérifiées",
+      "Simulation inexacte pouvant induire de mauvaises pratiques",
+      "Traductions approximatives entraînant des malentendus",
+      "Mise à jour tardive si l’IA n’est pas correctement alimentée"
+    ]
+  },
+  {
+    "groupe_metiers": "Recherche",
+    "metier": "Chercheur·euse",
+    "taches_typiques": [
+      "Rédiger des propositions de financement",
+      "Faire une revue de littérature assistée par IA",
+      "Générer des hypothèses de recherche à partir de données",
+      "Analyser des jeux de données avec des modèles IA",
+      "Rédiger des articles scientifiques",
+      "Préparer des présentations et posters",
+      "Simuler des modèles théoriques",
+      "Traduire des résumés pour des revues internationales",
+      "Détecter le plagiat et les auto‑plagiats",
+      "Gérer les références bibliographiques avec des outils IA"
+    ],
+    "impact": [
+      "moyen",
+      "fort",
+      "fort",
+      "fort",
+      "moyen",
+      "faible",
+      "fort",
+      "moyen",
+      "faible",
+      "faible"
+    ],
+    "risques": [
+      "Propositions trop génériques, manque d’originalité",
+      "Biais de sélection des sources, omission d’études critiques",
+      "Hypothèses non plausibles si l’IA n’est pas supervisée",
+      "Sur‑interprétation des corrélations, risque de faux positifs",
+      "Plagiat involontaire ou texte trop ressemblant à d’autres travaux",
+      "Visuels générés automatiquement pouvant contenir des erreurs",
+      "Modèles simulés basés sur des hypothèses erronées",
+      "Traductions inexactes pouvant nuire à la réception",
+      "Faux positifs/negatifs dans la détection de plagiat",
+      "Mauvaise classification des références, perte de traçabilité"
+    ]
+  },
+  {
+    "groupe_metiers": "Administration académique",
+    "metier": "Responsable de programme",
+    "taches_typiques": [
+      "Concevoir le curriculum du diplôme",
+      "Planifier les horaires des cours",
+      "Gérer les inscriptions des étudiants",
+      "Communiquer les informations clés aux étudiants",
+      "Analyser les taux de réussite et d’abandon",
+      "Rédiger des rapports d’accréditation",
+      "Automatiser les notifications (rappels, changements)",
+      "Coordonner les évaluations pédagogiques",
+      "Préparer les audits internes et externes",
+      "Organiser les
