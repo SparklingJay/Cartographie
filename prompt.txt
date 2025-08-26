@@ -13,9 +13,9 @@ Utilise exclusivement les familles de métiers suivantes :
 10. Scolarité et gestion des étudiants
 
 Objectifs :  
-1. Pour chaque famille, identifier deux **métiers types** différents existant dans une université française
-2. Pour chaque métier, identifier trois ** tâches typiques** quotidiennes et concrète. Choisis des actions concrètes. N'utilisent pas de termes abstraits comme "assister" ou "gérer" qui englobent plusieurs actions. 
-3. Pour chaque tâche, estimer un **niveau d’impact potentiel** d'une IA générative type chatbot (faible, moyen, fort)
+1. Pour chaque famille, identifier trois **métiers types** différents existant dans une université française
+2. Puis, pour chaque métier identifiés précédemment, identifier trois ** tâches typiques** quotidiennes et concrète. Choisis des actions concrètes. N'utilisent pas de termes abstraits comme "assister" ou "gérer" qui englobent plusieurs actions. 
+3. Puis, pour chaque tâche, estimer un **niveau d’impact potentiel** d'une IA générative type chatbot (faible, moyen, fort)
 
 
 Format de sortie :

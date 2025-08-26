@@ -1,0 +1,34 @@
+Famille de métier;Métier;Tâche;Impact potentiel
+Administration et pilotage;Chargé de mission;Rédiger un compte-rendu de réunion;Faible
+Administration et pilotage;Responsable administratif;Gérer les demandes de congés des personnels;Moyen
+Administration et pilotage;Chef de service;Planifier les réunions de service;Faible
+Communication;Chargé de communication;Rédiger un communiqué de presse;Moyen
+Communication;Responsable de réseaux sociaux;Créer un post pour les réseaux sociaux;Fort
+Communication;Graphiste;Concevoir une affiche pour un événement;Faible
+Enseignement;Professeur;Corriger des copies d'examen;Moyen
+Enseignement;Assistant pédagogique;Préparer des supports de cours;Faible
+Enseignement;Responsable de formation;Évaluer les besoins de formation des étudiants;Faible
+Finances et Comptabilité;Comptable;Saisir les factures dans le logiciel comptable;Fort
+Finances et Comptabilité;Contrôleur de gestion;Analyser les données financières;Faible
+Finances et Comptabilité;Responsable budgétaire;Élaborer le budget annuel de l'université;Moyen
+Informatique NTIC;Développeur web;Créer une nouvelle page web;Faible
+Informatique NTIC;Administrateur système;Gérer les serveurs de l'université;Fort
+Informatique NTIC;Technicien support;Résoudre les problèmes informatiques des utilisateurs;Moyen
+Juridique;Avocat;Rédiger un contrat;Fort
+Juridique;Assistant juridique;Rechercher des jurisprudences;Moyen
+Juridique;Responsable juridique;Conseiller les services de l'université sur des questions juridiques;Faible
+Pédagogie et accompagnement des étudiants (ingénierie pédagogique);Ingénieur pédagogique;Concevoir un programme de formation;Faible
+Pédagogie et accompagnement des étudiants (ingénierie pédagogique);Chargé d'orientation;Accompagner les étudiants dans leur choix de formation;Moyen
+Pédagogie et accompagnement des étudiants (ingénierie pédagogique);Responsable d'un centre d'aide aux étudiants;Organiser des ateliers d'aide aux étudiants;Faible
+Recherche et ingénierie;Chercheur;Rédiger un article scientifique;Faible
+Recherche et ingénierie;Ingénieur de recherche;Analyser des données de recherche;Faible
+Recherche et ingénierie;Responsable de projet de recherche;Gérer un projet de recherche;Moyen
+Ressources humaines;Chargé de recrutement;Analyser les candidatures;Moyen
+Ressources humaines;Responsable de la formation;Organiser des formations pour les personnels;Faible
+Ressources humaines;Gestionnaire de paie;Calculer les salaires des personnels;Fort
+Scolarité et gestion des étudiants;Responsable d'inscription;Gérer les inscriptions des étudiants;Fort
+Scolarité et gestion des étudiants;Conseiller pédagogique;Accompagner les étudiants dans leur parcours scolaire;Moyen
+Scolarité et gestion des étudiants;Administrateur des examens;Organiser les sessions d'examens;Faible
+
+
+
