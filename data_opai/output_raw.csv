@@ -1,0 +1,61 @@
+Family,Métier,Tâche,Impact
+Administration et pilotage,Directeur des études,Élaborer le calendrier académique annuel,moyen
+Administration et pilotage,Directeur des études,Analyser les résultats des examens pour ajuster les programmes,fort
+Administration et pilotage,Directeur des études,Organiser les réunions de coordination avec les départements,faible
+Administration et pilotage,Chef de service administratif,Mettre à jour les procédures internes dans le manuel de l'université,faible
+Administration et pilotage,Chef de service administratif,Superviser la saisie des dossiers de personnel,moyen
+Administration et pilotage,Chef de service administratif,Réaliser les rapports mensuels de fréquentation,moyen
+Communication,Chargé de communication,Rédiger les communiqués de presse hebdomadaires,fort
+Communication,Chargé de communication,Concevoir les visuels pour les réseaux sociaux,moyen
+Communication,Chargé de communication,Organiser les événements promotionnels sur campus,faible
+Communication,Responsable relations presse,Négocier les accords de diffusion avec les médias,fort
+Communication,Responsable relations presse,Préparer les dossiers de presse pour les conférences,moyen
+Communication,Responsable relations presse,Suivre les mentions de l'université dans les médias,faible
+Enseignement,Professeur des universités,Concevoir les supports de cours (diapositives, fiches),fort
+Enseignement,Professeur des universités,Corriger les copies d'examen,fort
+Enseignement,Professeur des universités,Animer les séances de travaux dirigés,faible
+Enseignement,Maître de conférences,Rédiger les propositions de projets de recherche,fort
+Enseignement,Maître de conférences,Animer les séminaires de recherche,faible
+Enseignement,Maître de conférences,Évaluer les travaux pratiques des étudiants,moyen
+Finances et Comptabilité,Trésorier,Établir le budget annuel de l'université,fort
+Finances et Comptabilité,Trésorier,Suivre les encaissements et décaissements,moyen
+Finances et Comptabilité,Trésorier,Préparer les déclarations fiscales,moyen
+Finances et Comptabilité,Comptable universitaire,Saisir les factures fournisseurs,faible
+Finances et Comptabilité,Comptable universitaire,Réconcilier les relevés bancaires,moyen
+Finances et Comptabilité,Comptable universitaire,Générer les bilans financiers trimestriels,fort
+Informatique NTIC,Responsable informatique,Concevoir la stratégie de cybersécurité,fort
+Informatique NTIC,Responsable informatique,Superviser la maintenance des serveurs,moyen
+Informatique NTIC,Responsable informatique,Mettre à jour les licences logicielles,faible
+Informatique NTIC,Technicien support informatique,Diagnostiquer les pannes de matériel,faible
+Informatique NTIC,Technicien support informatique,Installer les logiciels sur les postes de travail,moyen
+Informatique NTIC,Technicien support informatique,Répondre aux tickets d'assistance des utilisateurs,moyen
+Juridique,Juriste universitaire,Rédiger les contrats de collaboration,fort
+Juridique,Juriste universitaire,Conseiller les départements sur la conformité réglementaire,fort
+Juridique,Juriste universitaire,Gérer les litiges avec les fournisseurs,moyen
+Juridique,Conseiller juridique,Analyser les dossiers de propriété intellectuelle,fort
+Juridique,Conseiller juridique,Rédiger les avis juridiques internes,fort
+Juridique,Conseiller juridique,Organiser les formations juridiques pour le personnel,moyen
+Pédagogie et accompagnement des étudiants,Ingénieur pédagogique,Concevoir les parcours d'apprentissage en ligne,fort
+Pédagogie et accompagnement des étudiants,Ingénieur pédagogique,Évaluer l'efficacité des outils pédagogiques,moyen
+Pédagogie et accompagnement des étudiants,Ingénieur pédagogique,Former les enseignants aux nouvelles technologies,moyen
+Pédagogie et accompagnement des étudiants,Conseiller pédagogique,Accompagner les étudiants dans la construction de leur projet de recherche,fort
+Pédagogie et accompagnement des étudiants,Conseiller pédagogique,Analyser les résultats d'évaluation des cours,moyen
+Pédagogie et accompagnement des étudiants,Conseiller pédagogique,Organiser les ateliers de tutorat,faible
+Recherche et ingénierie,Chercheur postdoctoral,Rédiger les articles scientifiques,fort
+Recherche et ingénierie,Chercheur postdoctoral,Présenter les résultats aux conférences internationales,fort
+Recherche et ingénierie,Chercheur postdoctoral,Superviser les assistants de recherche,moyen
+Recherche et ingénierie,Ingénieur de recherche,Concevoir les protocoles expérimentaux,fort
+Recherche et ingénierie,Ingénieur de recherche,Analyser les données expérimentales,fort
+Recherche et ingénierie,Ingénieur de recherche,Gérer les équipements de laboratoire,moyen
+Ressources humaines,Responsable RH,Élaborer les fiches de poste,moyen
+Ressources humaines,Responsable RH,Mettre en place les procédures d'évaluation de performance,moyen
+Ressources humaines,Responsable RH,Organiser les séances de formation interne,faible
+Ressources humaines,Chargé de recrutement,Rédiger les annonces d'emploi,fort
+Ressources humaines,Chargé de recrutement,Trier les CV reçus,moyen
+Ressources humaines,Chargé de recrutement,Conduire les entretiens téléphoniques,faible
+Scolarité et gestion des étudiants,Responsable scolarité,Mettre à jour le registre des inscriptions,faible
+Scolarité et gestion des étudiants,Responsable scolarité,Gérer les dossiers de validation des crédits,moyen
+Scolarité et gestion des étudiants,Responsable scolarité,Organiser les séances d'orientation des nouveaux étudiants,faible
+Scolarité et gestion des étudiants,Coordinateur d'inscription,Vérifier les pièces justificatives des dossiers d'inscription,faible
+Scolarité et gestion des étudiants,Coordinateur d'inscription,Enregistrer les nouvelles inscriptions dans le système,faible
+Scolarité et gestion des étudiants,Coordinateur d'inscription,Répondre aux demandes d'information des futurs étudiants,faible

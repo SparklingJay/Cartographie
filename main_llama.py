@@ -13,14 +13,14 @@ def query_model(model_name: str, prompt: str) -> str:
         model=model_name,
         messages=[{"role": "user", "content": prompt}],
         temperature=0.2,
-        max_tokens=5500
+        max_tokens=10000
     )
     return response.choices[0].message.content
 
 
 if __name__ == "__main__":
     # Choisir le modèle que tu veux tester
-    model = "openai/gpt-oss-20b"
+    model = "llama-3.3-70b-versatile"
 
     # Charger le prompt depuis un fichier externe
     with open("prompt.txt", "r", encoding="utf-8") as f:
@@ -30,7 +30,7 @@ if __name__ == "__main__":
     output = query_model(model, prompt)
 
     # Sauvegarde brute
-    with open("data/output_raw.csv", "w", encoding="utf-8") as f:
+    with open("data_llama/output_raw.csv", "w", encoding="utf-8") as f:
         f.write(output)
 
     # Nettoyage : suppression lignes vides ou parasites
@@ -39,7 +39,7 @@ if __name__ == "__main__":
     # Conversion en DataFrame
     try:
         df = pd.read_csv(StringIO(output))
-        df.to_excel("data/table_metiers.xlsx", index=False)
+        df.to_excel("data_llama/table_metiers.xlsx", index=False)
         print("✅ Tableau exporté vers data/table_metiers.xlsx")
         print(df.head())
     except Exception as e:

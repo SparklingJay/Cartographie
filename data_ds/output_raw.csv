@@ -1,0 +1,57 @@
+<think>
+Okay, I need to help the user create a CSV table mapping jobs affected by generative AI in a university. They specified using only the given job families and following a strict format. 
+
+First, I'll go through each family and pick two typical jobs. For example, under Administration, I can choose Administrative Manager and IT Project Manager. Then, for each job, I need three concrete tasks. I should avoid vague terms and focus on specific actions.
+
+Next, I'll assess the impact level of generative AI on each task. For instance, scheduling might have a medium impact because AI can handle it, but strategic planning would have low impact since it needs human expertise.
+
+I have to make sure the CSV format is correct, using semicolons and no quotes. I'll structure the header first, then each row with the family, job, task, and impact. I'll double-check to ensure no extra text is included, only the table as specified.
+
+I should also verify that each task is specific and concrete. For example, instead of "manage," I'll use "prepare budgets" or "draft reports." This way, the impact assessment is accurate and meaningful.
+
+Finally, I'll review the entire CSV to ensure it meets all the user's requirements and formatting rules before finalizing it.
+</think>
+
+```csv
+Famille de métiers;Métier;Tâche typique;Niveau d'impact potentiel
+Administration et pilotage;Responsable administratif;Préparer des budgets et des rapports financiers;faible
+Administration et pilotage;Responsable administratif;Planifier les réunions et les agendas;faible
+Administration et pilotage;Chef de projet IT;Superviser les projets informatiques;faible
+Administration et pilotage;Chef de projet IT;Coordonner les équipes techniques;faible
+Communication;Responsable communication;Rédiger des communiqués de presse;faible
+Communication;Responsable communication;Gérer les réseaux sociaux;faible
+Communication;Graphiste;Créer des visuels pour les campagnes;faible
+Communication;Graphiste;Concevoir des supports de communication;faible
+Enseignement;Professeur des universités;Préparer des cours magistraux;faible
+Enseignement;Professeur des universités;Corriger des copies d'examen;faible
+Enseignement;Enseignant-chercheur;Rédiger des articles de recherche;faible
+Enseignement;Enseignant-chercheur;Diriger des travaux de recherche;faible
+Finances et Comptabilité;Comptable;Saisir des factures et des paiements;faible
+Finances et Comptabilité;Comptable;Préparer les déclarations fiscales;faible
+Finances et Comptabilité;Contrôleur de gestion;Analyser les budgets;faible
+Finances et Comptabilité;Contrôleur de gestion;Élaborer des rapports financiers;faible
+Informatique NTIC;Développeur logiciel;Écrire du code pour des applications;faible
+Informatique NTIC;Développeur logiciel;Déboguer des programmes;faible
+Informatique NTIC;Administrateur réseau;Gérer les serveurs et les réseaux;faible
+Informatique NTIC;Administrateur réseau;Mettre à jour les systèmes;faible
+Juridique;Juriste;Rédiger des contrats;faible
+Juridique;Juriste;Conseiller sur des questions légales;faible
+Juridique;Avocat;Préparer des dossiers juridiques;faible
+Juridique;Avocat;Représenter l'université en justice;faible
+Pédagogie et accompagnement des étudiants (ingénierie pédagogique);Ingénieur pédagogique;Concevoir des parcours pédagogiques;faible
+Pédagogie et accompagnement des étudiants (ingénierie pédagogique);Ingénieur pédagogique;Élaborer des outils pédagogiques;faible
+Pédagogie et accompagnement des étudiants (ingénierie pédagogique);Tuteur pédagogique;Accompagner les étudiants;faible
+Pédagogie et accompagnement des étudiants (ingénierie pédagogique);Tuteur pédagogique;Organiser des ateliers;faible
+Recherche et ingénierie;Chercheur;Mener des expériences scientifiques;faible
+Recherche et ingénierie;Chercheur;Analyser des données de recherche;faible
+Recherche et ingénierie;Ingénieur de recherche;Développer des prototypes;faible
+Recherche et ingénierie;Ingénieur de recherche;Concevoir des dispositifs expérimentaux;faible
+Ressources humaines;Responsable RH;Gérer les dossiers du personnel;faible
+Ressources humaines;Responsable RH;Organiser des entretiens de recrutement;faible
+Ressources humaines;Recruteur;Publier des offres d'emploi;faible
+Ressources humaines;Recruteur;Sélectionner des candidats;faible
+Scolarité et gestion des étudiants;Gestionnaire de scolarité;Inscrire les étudiants dans les systèmes;faible
+Scolarité et gestion des étudiants;Gestionnaire de scolarité;Gérer les dossiers étudiants;faible
+Scolarité et gestion des étudiants;Conseiller d'orientation;Aider les étudiants dans leur choix de parcours;faible
+Scolarité et gestion des étudiants;Conseiller d'orientation;Organiser des ateliers d'orientation;faible
+```
