@@ -1,0 +1,240 @@
+﻿Famille de métiers;Métier;Tâche;Impact potentiel
+Administration et pilotage;Assistant de direction;Répondre au téléphone;faible
+Administration et pilotage;Assistant de direction;Traiter le courrier électronique;faible
+Administration et pilotage;Assistant de direction;Organiser des déplacements;faible
+Administration et pilotage;Assistant de direction;Faire des réservations d'hôtel;faible
+Administration et pilotage;Assistant de direction;Préparer des présentations;moyen
+Administration et pilotage;Chargé de mission;Rédiger un compte-rendu de réunion;fort
+Administration et pilotage;Chef de service;Planifier les réunions de service;faible
+Administration et pilotage;Chef de service;Mettre à jour les procédures internes dans le manuel de l'université;faible
+Administration et pilotage;Chef de service;Superviser la saisie des dossiers de personnel;moyen
+Administration et pilotage;Chef de service;Réaliser les rapports mensuels de fréquentation;moyen
+Administration et pilotage;Directeur administratif;Élaborer des budgets;moyen
+Administration et pilotage;Directeur administratif;Analyser des données financières;moyen
+Administration et pilotage;Directeur administratif;Préparer des rapports de gestion;moyen
+Administration et pilotage;Directeur administratif;Négocier des contrats;faible
+Administration et pilotage;Directeur administratif;Superviser des équipes administratives;faible
+Administration et pilotage;Directeur des études;Élaborer le calendrier académique annuel;moyen
+Administration et pilotage;Directeur des études;Analyser les résultats des examens pour ajuster les programmes;fort
+Administration et pilotage;Directeur des études;Organiser les réunions de coordination avec les départements;faible
+Administration et pilotage;Responsable administratif;Gérer les demandes de congés des personnels;faible
+Administration et pilotage;Secrétaire général;Rédiger des procès-verbaux;faible
+Administration et pilotage;Secrétaire général;Gérer le calendrier des réunions;faible
+Administration et pilotage;Secrétaire général;Préparer des dossiers de réunion;faible
+Administration et pilotage;Secrétaire général;Envoyer des rappels de réunion;faible
+Administration et pilotage;Secrétaire général;Classer des documents administratifs;faible
+Communication;Attaché de presse;Rédiger des articles de presse;fort
+Communication;Attaché de presse;Organiser des interviews;faible
+Communication;Attaché de presse;Gérer les relations avec les médias;faible
+Communication;Attaché de presse;Créer des dossiers de presse;moyen
+Communication;Attaché de presse;Envoyer des communiqués de presse;faible
+Communication;Chargé de communication;Rédiger un communiqué de presse;Moyen
+Communication;Chargé de communication;Rédiger les communiqués de presse hebdomadaires;fort
+Communication;Chargé de communication;Concevoir les visuels pour les réseaux sociaux;moyen
+Communication;Chargé de communication;Organiser les événements promotionnels sur campus;faible
+Communication;Graphiste;Concevoir une affiche pour un événement;moyen
+Communication;Responsable de communication;Rédiger des communiqués de presse;fort
+Communication;Responsable de communication;Gérer les réseaux sociaux;fort
+Communication;Responsable de communication;Créer des contenus de blog;fort
+Communication;Responsable de communication;Organiser des événements de presse;faible
+Communication;Responsable de communication;Analyser des données de trafic web;moyen
+Communication;Responsable de réseaux sociaux;Créer un post pour les réseaux sociaux;fort
+Communication;Responsable relations presse;Négocier les accords de diffusion avec les médias;fort
+Communication;Responsable relations presse;Préparer les dossiers de presse pour les conférences;moyen
+Communication;Responsable relations presse;Suivre les mentions de l'université dans les médias;faible
+Communication;Webmaster;Mettre à jour des sites web;moyen
+Communication;Webmaster;Créer des contenus web;fort
+Communication;Webmaster;Gérer des bases de données web;moyen
+Communication;Webmaster;Optimiser des sites web pour les moteurs de recherche;moyen
+Communication;Webmaster;Superviser des équipes de développement web;faible
+Enseignement;Assistant pédagogique;Préparer des supports de cours;Faible
+Enseignement;Enseignant-chercheur;Préparer des cours;fort
+Enseignement;Enseignant-chercheur;Donner des cours;faible
+Enseignement;Enseignant-chercheur;Mener des recherches;fort
+Enseignement;Enseignant-chercheur;Rédiger des articles de recherche;fort
+Enseignement;Enseignant-chercheur;Participer à des conférences internationales;faible
+Enseignement;Maître de conférences;Rédiger les propositions de projets de recherche;fort
+Enseignement;Maître de conférences;Animer les séminaires de recherche;faible
+Enseignement;Maître de conférences;Évaluer les travaux pratiques des étudiants;moyen
+Enseignement;Maître de conférences;Préparer des séminaires;fort
+Enseignement;Maître de conférences;Donner des séminaires;faible
+Enseignement;Maître de conférences;Encadrer des travaux de recherche;faible
+Enseignement;Maître de conférences;Participer à des comités de recherche;faible
+Enseignement;Maître de conférences;Rédiger des articles de recherche;fort
+Enseignement;Professeur;Corriger des copies d'examen;moyen
+Enseignement;Professeur;Concevoir les supports de cours (diapositives, fiches);fort
+Enseignement;Professeur;Corriger les copies d'examen;fort
+Enseignement;Professeur;Animer les séances de travaux dirigés;faible
+Enseignement;Professeur;Préparer des cours;fort
+Enseignement;Professeur;Donner des cours;faible
+Enseignement;Professeur;Corriger des examens;moyen
+Enseignement;Professeur;Encadrer des étudiants;faible
+Enseignement;Professeur;Participer à des jurys d'examen;faible
+Enseignement;Responsable de formation;Évaluer les besoins de formation des étudiants;Faible
+Finances et Comptabilité;Comptable;Saisir les factures dans le logiciel comptable;Fort
+Finances et Comptabilité;Comptable;Gérer des comptes;moyen
+Finances et Comptabilité;Comptable;Préparer des déclarations fiscales;moyen
+Finances et Comptabilité;Comptable;Analyser des données comptables;moyen
+Finances et Comptabilité;Comptable;Faire des prévisions financières;moyen
+Finances et Comptabilité;Comptable;Classer des documents comptables;faible
+Finances et Comptabilité;Comptable universitaire;Saisir les factures fournisseurs;faible
+Finances et Comptabilité;Comptable universitaire;Réconcilier les relevés bancaires;moyen
+Finances et Comptabilité;Comptable universitaire;Générer les bilans financiers trimestriels;fort
+Finances et Comptabilité;Contrôleur de gestion;Analyser les données financières;moyen
+Finances et Comptabilité;Directeur financier;Élaborer des budgets;moyen
+Finances et Comptabilité;Directeur financier;Analyser des données financières;moyen
+Finances et Comptabilité;Directeur financier;Préparer des rapports de gestion;moyen
+Finances et Comptabilité;Directeur financier;Négocier des contrats;faible
+Finances et Comptabilité;Directeur financier;Superviser des équipes financières;faible
+Finances et Comptabilité;Responsable budgétaire;Élaborer le budget annuel de l'université;moyen
+Finances et Comptabilité;Trésorier;Établir le budget annuel de l'université;fort
+Finances et Comptabilité;Trésorier;Suivre les encaissements et décaissements;moyen
+Finances et Comptabilité;Trésorier;Préparer les déclarations fiscales;moyen
+Finances et Comptabilité;Trésorier;Gérer des flux de trésorerie;moyen
+Finances et Comptabilité;Trésorier;Préparer des rapports de trésorerie;moyen
+Finances et Comptabilité;Trésorier;Négocier des contrats de crédit;faible
+Finances et Comptabilité;Trésorier;Superviser des équipes de trésorerie;faible
+Finances et Comptabilité;Trésorier;Faire des prévisions de trésorerie;moyen
+Informatique NTIC;Administrateur réseau;Gérer des réseaux;moyen
+Informatique NTIC;Administrateur réseau;Superviser des équipes de maintenance;faible
+Informatique NTIC;Administrateur réseau;Préparer des rapports de maintenance;moyen
+Informatique NTIC;Administrateur réseau;Faire des prévisions de maintenance;moyen
+Informatique NTIC;Administrateur réseau;Classer des documents de maintenance;faible
+Informatique NTIC;Administrateur système;Gérer les serveurs de l'université;faible
+Informatique NTIC;Développeur web;Créer une nouvelle page web;fort
+Informatique NTIC;Développeur web;Créer des applications web;moyen
+Informatique NTIC;Développeur web;Mettre à jour des sites web;moyen
+Informatique NTIC;Développeur web;Gérer des bases de données web;moyen
+Informatique NTIC;Développeur web;Optimiser des sites web pour les moteurs de recherche;moyen
+Informatique NTIC;Développeur web;Superviser des équipes de développement web;faible
+Informatique NTIC;Directeur des systèmes d'information;Élaborer des stratégies informatiques;moyen
+Informatique NTIC;Directeur des systèmes d'information;Superviser des équipes informatiques;faible
+Informatique NTIC;Directeur des systèmes d'information;Gérer des budgets informatiques;moyen
+Informatique NTIC;Directeur des systèmes d'information;Négocier des contrats de maintenance;faible
+Informatique NTIC;Directeur des systèmes d'information;Préparer des rapports de gestion;moyen
+Informatique NTIC;Responsable informatique;Concevoir la stratégie de cybersécurité;fort
+Informatique NTIC;Responsable informatique;Superviser la maintenance des serveurs;moyen
+Informatique NTIC;Responsable informatique;Mettre à jour les licences logicielles;faible
+Informatique NTIC;Technicien support;Résoudre les problèmes informatiques des utilisateurs;moyen
+Informatique NTIC;Technicien support informatique;Diagnostiquer les pannes de matériel;faible
+Informatique NTIC;Technicien support informatique;Installer les logiciels sur les postes de travail;moyen
+Informatique NTIC;Technicien support informatique;Répondre aux tickets d'assistance des utilisateurs;moyen
+Juridique;Assistant juridique;Rechercher des jurisprudences;moyen
+Juridique;Avocat;Rédiger un contrat;fort
+Juridique;Avocat;Plaider des affaires;faible
+Juridique;Avocat;Rédiger des mémoires;fort
+Juridique;Avocat;Analyser des données juridiques;moyen
+Juridique;Avocat;Préparer des dossiers juridiques;moyen
+Juridique;Avocat;Négocier des contrats;faible
+Juridique;Conseiller juridique;Analyser les dossiers de propriété intellectuelle;fort
+Juridique;Conseiller juridique;Rédiger les avis juridiques internes;fort
+Juridique;Conseiller juridique;Organiser les formations juridiques pour le personnel;moyen
+Juridique;Conseiller juridique;Rédiger des avis juridiques;fort
+Juridique;Conseiller juridique;Analyser des données juridiques;moyen
+Juridique;Conseiller juridique;Préparer des dossiers juridiques;moyen
+Juridique;Conseiller juridique;Négocier des contrats;faible
+Juridique;Conseiller juridique;Superviser des équipes juridiques;faible
+Juridique;Juriste;Rédiger des contrats;fort
+Juridique;Juriste;Analyser des données juridiques;moyen
+Juridique;Juriste;Préparer des dossiers juridiques;moyen
+Juridique;Juriste;Négocier des contrats;faible
+Juridique;Juriste;Superviser des équipes juridiques;faible
+Juridique;Juriste universitaire;Rédiger les contrats de collaboration;fort
+Juridique;Juriste universitaire;Conseiller les départements sur la conformité réglementaire;fort
+Juridique;Juriste universitaire;Gérer les litiges avec les fournisseurs;moyen
+Juridique;Responsable juridique;Conseiller les services de l'université sur des questions juridiques;moyen
+Pédagogie et accompagnement des étudiants;Conseiller d'orientation;Donner des conseils d'orientation;faible
+Pédagogie et accompagnement des étudiants;Conseiller d'orientation;Encadrer des étudiants;faible
+Pédagogie et accompagnement des étudiants;Conseiller d'orientation;Participer à des comités d'orientation;faible
+Pédagogie et accompagnement des étudiants;Conseiller d'orientation;Rédiger des rapports d'orientation;moyen
+Pédagogie et accompagnement des étudiants;Conseiller d'orientation;Créer des plans d'orientation;fort
+Pédagogie et accompagnement des étudiants;Conseiller pédagogique;Accompagner les étudiants dans la construction de leur projet de recherche;fort
+Pédagogie et accompagnement des étudiants;Conseiller pédagogique;Analyser les résultats d'évaluation des cours;moyen
+Pédagogie et accompagnement des étudiants;Conseiller pédagogique;Organiser les ateliers de tutorat;faible
+Pédagogie et accompagnement des étudiants;Ingénieur pédagogique;Concevoir les parcours d'apprentissage en ligne;fort
+Pédagogie et accompagnement des étudiants;Ingénieur pédagogique;Évaluer l'efficacité des outils pédagogiques;moyen
+Pédagogie et accompagnement des étudiants;Ingénieur pédagogique;Former les enseignants aux nouvelles technologies;moyen
+Pédagogie et accompagnement des étudiants;Pédagogue;Créer des plans de formation;fort
+Pédagogie et accompagnement des étudiants;Pédagogue;Donner des conseils pédagogiques;faible
+Pédagogie et accompagnement des étudiants;Pédagogue;Encadrer des étudiants;faible
+Pédagogie et accompagnement des étudiants;Pédagogue;Participer à des comités pédagogiques;faible
+Pédagogie et accompagnement des étudiants;Pédagogue;Rédiger des rapports pédagogiques;moyen
+Pédagogie et accompagnement des étudiants;Tuteur;Donner des conseils pédagogiques;faible
+Pédagogie et accompagnement des étudiants;Tuteur;Encadrer des étudiants;faible
+Pédagogie et accompagnement des étudiants;Tuteur;Participer à des comités pédagogiques;faible
+Pédagogie et accompagnement des étudiants;Tuteur;Rédiger des rapports pédagogiques;moyen
+Pédagogie et accompagnement des étudiants;Tuteur;Créer des plans de formation;fort
+Pédagogie et accompagnement des étudiants (ingénierie pédagogique);Chargé d'orientation;Accompagner les étudiants dans leur choix de formation;moyen
+Pédagogie et accompagnement des étudiants (ingénierie pédagogique);Ingénieur pédagogique;Concevoir un programme de formation;moyen
+Pédagogie et accompagnement des étudiants (ingénierie pédagogique);Responsable d'un centre d'aide aux étudiants;Organiser des ateliers d'aide aux étudiants;moyen
+Recherche et ingénierie;Chercheur;Rédiger un article scientifique;moyen
+Recherche et ingénierie;Chercheur;Mener des recherches;fort
+Recherche et ingénierie;Chercheur;Rédiger des articles de recherche;fort
+Recherche et ingénierie;Chercheur;Préparer des rapports de recherche;moyen
+Recherche et ingénierie;Chercheur;Participer à des conférences internationales;faible
+Recherche et ingénierie;Chercheur;Encadrer des étudiants en recherche;faible
+Recherche et ingénierie;Chercheur postdoctoral;Rédiger les articles scientifiques;fort
+Recherche et ingénierie;Chercheur postdoctoral;Présenter les résultats aux conférences internationales;fort
+Recherche et ingénierie;Chercheur postdoctoral;Superviser les assistants de recherche;moyen
+Recherche et ingénierie;Directeur de recherche;Élaborer des stratégies de recherche;moyen
+Recherche et ingénierie;Directeur de recherche;Superviser des équipes de recherche;faible
+Recherche et ingénierie;Directeur de recherche;Gérer des budgets de recherche;moyen
+Recherche et ingénierie;Directeur de recherche;Négocier des contrats de recherche;faible
+Recherche et ingénierie;Directeur de recherche;Préparer des rapports de gestion;moyen
+Recherche et ingénierie;Ingénieur de recherche;Analyser des données de recherche;fort
+Recherche et ingénierie;Ingénieur de recherche;Concevoir les protocoles expérimentaux;fort
+Recherche et ingénierie;Ingénieur de recherche;Analyser les données expérimentales;fort
+Recherche et ingénierie;Ingénieur de recherche;Gérer les équipements de laboratoire;moyen
+Recherche et ingénierie;Ingénieur de recherche;Mener des recherches;fort
+Recherche et ingénierie;Ingénieur de recherche;Rédiger des rapports de recherche;moyen
+Recherche et ingénierie;Ingénieur de recherche;Préparer des présentations de recherche;moyen
+Recherche et ingénierie;Ingénieur de recherche;Participer à des comités de recherche;faible
+Recherche et ingénierie;Ingénieur de recherche;Encadrer des étudiants en recherche;faible
+Recherche et ingénierie;Responsable de projet de recherche;Gérer un projet de recherche;moyen
+Ressources humaines;Chargé de recrutement;Analyser les candidatures;moyen
+Ressources humaines;Chargé de recrutement;Rédiger les annonces d'emploi;fort
+Ressources humaines;Chargé de recrutement;Trier les CV reçus;moyen
+Ressources humaines;Chargé de recrutement;Conduire les entretiens téléphoniques;faible
+Ressources humaines;Directeur des ressources humaines;Élaborer des stratégies de recrutement;moyen
+Ressources humaines;Directeur des ressources humaines;Superviser des équipes de recrutement;faible
+Ressources humaines;Directeur des ressources humaines;Gérer des budgets de formation;moyen
+Ressources humaines;Directeur des ressources humaines;Négocier des contrats de travail;faible
+Ressources humaines;Directeur des ressources humaines;Préparer des rapports de gestion;moyen
+Ressources humaines;Formateur;Créer des plans de formation;fort
+Ressources humaines;Formateur;Donner des formations;faible
+Ressources humaines;Formateur;Évaluer des formations;moyen
+Ressources humaines;Formateur;Participer à des comités de formation;faible
+Ressources humaines;Formateur;Rédiger des rapports de formation;moyen
+Ressources humaines;Responsable de la formation;Organiser des formations pour les personnels;moyen
+Ressources humaines;Responsable de recrutement;Lancer des campagnes de recrutement;moyen
+Ressources humaines;Responsable de recrutement;Analyser des CV;moyen
+Ressources humaines;Responsable de recrutement;Organiser des entretiens de recrutement;faible
+Ressources humaines;Responsable de recrutement;Préparer des offres d'emploi;moyen
+Ressources humaines;Responsable de recrutement;Superviser des équipes de recrutement;faible
+Ressources humaines;Responsable RH;Élaborer les fiches de poste;moyen
+Ressources humaines;Responsable RH;Mettre en place les procédures d'évaluation de performance;moyen
+Ressources humaines;Responsable RH;Organiser les séances de formation interne;faible
+Scolarité et gestion des étudiants;Administrateur des examens;Organiser les sessions d'examens;faible
+Scolarité et gestion des étudiants;Conseiller d'orientation;Donner des conseils d'orientation;faible
+Scolarité et gestion des étudiants;Conseiller d'orientation;Encadrer des étudiants;faible
+Scolarité et gestion des étudiants;Conseiller d'orientation;Participer à des comités d'orientation;faible
+Scolarité et gestion des étudiants;Conseiller d'orientation;Rédiger des rapports d'orientation;moyen
+Scolarité et gestion des étudiants;Conseiller d'orientation;Créer des plans d'orientation;fort
+Scolarité et gestion des étudiants;Conseiller pédagogique;Accompagner les étudiants dans leur parcours scolaire;moyen
+Scolarité et gestion des étudiants;Coordinateur d'inscription;Vérifier les pièces justificatives des dossiers d'inscription;faible
+Scolarité et gestion des étudiants;Coordinateur d'inscription;Enregistrer les nouvelles inscriptions dans le système;faible
+Scolarité et gestion des étudiants;Coordinateur d'inscription;Répondre aux demandes d'information des futurs étudiants;faible
+Scolarité et gestion des étudiants;Gestionnaire de bourse;Gérer des dossiers de bourse;moyen
+Scolarité et gestion des étudiants;Gestionnaire de bourse;Préparer des rapports de bourse;moyen
+Scolarité et gestion des étudiants;Gestionnaire de bourse;Répondre aux demandes d'information;faible
+Scolarité et gestion des étudiants;Gestionnaire de bourse;Classer des documents de bourse;faible
+Scolarité et gestion des étudiants;Gestionnaire de bourse;Superviser des équipes de bourse;faible
+Scolarité et gestion des étudiants;Responsable d'inscription;Gérer les inscriptions des étudiants;moyen
+Scolarité et gestion des étudiants;Responsable scolarité;Mettre à jour le registre des inscriptions;faible
+Scolarité et gestion des étudiants;Responsable scolarité;Gérer les dossiers de validation des crédits;moyen
+Scolarité et gestion des étudiants;Responsable scolarité;Organiser les séances d'orientation des nouveaux étudiants;faible
+Scolarité et gestion des étudiants;Secrétaire de scolarité;Gérer des dossiers d'inscription;moyen
+Scolarité et gestion des étudiants;Secrétaire de scolarité;Préparer des certificats de scolarité;moyen
+Scolarité et gestion des étudiants;Secrétaire de scolarité;Répondre aux demandes d'information;faible
+Scolarité et gestion des étudiants;Secrétaire de scolarité;Classer des documents de scolarité;faible
+Scolarité et gestion des étudiants;Secrétaire de scolarité;Superviser des équipes de scolarité;faible

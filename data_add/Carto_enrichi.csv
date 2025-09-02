@@ -1,0 +1,240 @@
+Famille de métiers,Métier,Tâche,Impact potentiel,Exemple
+Administration et pilotage,Assistant de direction,Répondre au téléphone,faible,Un chatbot IA de type ChatGPT peut répondre automatiquement aux appels téléphoniques en utilisant la synthèse vocale pour fournir des réponses préenregistrées ou générées à l'instant.
+Administration et pilotage,Assistant de direction,Traiter le courrier électronique,faible,Un chatbot IA de type ChatGPT peut rédiger des réponses automatiques à des courriers électroniques courants.
+Administration et pilotage,Assistant de direction,Organiser des déplacements,faible,Un chatbot IA de type ChatGPT peut planifier des itinéraires de déplacement en fonction des préférences et des contraintes de l'utilisateur.
+Administration et pilotage,Assistant de direction,Faire des réservations d'hôtel,faible,Un chatbot IA de type ChatGPT peut réserver des chambres d'hôtel en ligne en traitant les demandes de réservation et en fournissant des options de paiement.
+Administration et pilotage,Assistant de direction,Préparer des présentations,moyen,Un chatbot IA de type ChatGPT peut générer des contenus de présentation.
+Administration et pilotage,Chargé de mission,Rédiger un compte-rendu de réunion,fort,Un chatbot IA de type ChatGPT peut rédiger un compte-rendu de réunion.
+Administration et pilotage,Chef de service,Planifier les réunions de service,faible,Un chatbot IA de type ChatGPT peut structurer les agendas et les disponibilités des membres du service pour planifier les réunions de service.
+Administration et pilotage,Chef de service,Mettre à jour les procédures internes dans le manuel de l'université,faible,Rédiger les mises à jour des procédures internes pour le manuel de l'université.
+Administration et pilotage,Chef de service,Superviser la saisie des dossiers de personnel,moyen,Un chatbot IA de type ChatGPT peut structurer les informations personnelles pour la saisie des dossiers de personnel.
+Administration et pilotage,Chef de service,Réaliser les rapports mensuels de fréquentation,moyen,Rédiger les rapports mensuels de fréquentation en analysant et en synthétisant les données de présence.
+Administration et pilotage,Directeur administratif,Élaborer des budgets,moyen,Un chatbot IA de type ChatGPT peut générer des modèles de budgets pour faciliter l'élaboration de plans financiers détaillés.
+Administration et pilotage,Directeur administratif,Analyser des données financières,moyen,Un chatbot IA de type ChatGPT peut analyser des données financières en les résumant.
+Administration et pilotage,Directeur administratif,Préparer des rapports de gestion,moyen,Un chatbot IA de type ChatGPT peut rédiger des rapports de gestion en générant automatiquement des textes basés sur des données et des modèles préétablis.
+Administration et pilotage,Directeur administratif,Négocier des contrats,faible,Un chatbot IA de type ChatGPT peut rédiger les premières versions de contrats en fonction de modèles et de clauses standardisées.
+Administration et pilotage,Directeur administratif,Superviser des équipes administratives,faible,Un chatbot IA de type ChatGPT peut automatiser la rédaction de rapports administratifs pour les équipes.
+Administration et pilotage,Directeur des études,Élaborer le calendrier académique annuel,moyen,Un chatbot IA de type ChatGPT peut générer les dates clés et les périodes de vacances pour élaborer le calendrier académique annuel.
+Administration et pilotage,Directeur des études,Analyser les résultats des examens pour ajuster les programmes,fort,Un chatbot IA de type ChatGPT peut analyser les résultats des examens pour identifier les domaines où les étudiants ont des difficultés et rédiger des recommandations pour ajuster les programmes d'études en conséquence.
+Administration et pilotage,Directeur des études,Organiser les réunions de coordination avec les départements,faible,Un chatbot IA de type ChatGPT peut structurer les agendas et les ordres du jour pour les réunions de coordination avec les départements.
+Administration et pilotage,Responsable administratif,Gérer les demandes de congés des personnels,faible,Un chatbot IA de type ChatGPT peut automatiser la rédaction des réponses aux demandes de congés des personnels.
+Administration et pilotage,Secrétaire général,Rédiger des procès-verbaux,faible,Un chatbot IA de type ChatGPT peut rédiger des procès-verbaux.
+Administration et pilotage,Secrétaire général,Gérer le calendrier des réunions,faible,Un chatbot IA de type ChatGPT peut planifier les réunions en fonction des disponibilités des participants et des salles de réunion.
+Administration et pilotage,Secrétaire général,Préparer des dossiers de réunion,faible,Rédiger les comptes rendus de réunion et les notes de décision à partir de données et de points de discussion fournis.
+Administration et pilotage,Secrétaire général,Envoyer des rappels de réunion,faible,Un chatbot IA de type ChatGPT peut envoyer des rappels de réunion personnalisés aux participants.
+Administration et pilotage,Secrétaire général,Classer des documents administratifs,faible,Un chatbot IA de type ChatGPT peut classer des documents administratifs en les catégorisant.
+Communication,Attaché de presse,Rédiger des articles de presse,fort,Un chatbot IA de type ChatGPT peut rédiger des articles de presse.
+Communication,Attaché de presse,Organiser des interviews,faible,Un chatbot IA de type ChatGPT peut structurer les questions pour les interviews.
+Communication,Attaché de presse,Gérer les relations avec les médias,faible,Rédiger des communiqués de presse personnalisés pour répondre aux demandes des médias.
+Communication,Attaché de presse,Créer des dossiers de presse,moyen,Un chatbot IA de type ChatGPT peut rédiger des contenus de base pour les dossiers de presse.
+Communication,Attaché de presse,Envoyer des communiqués de presse,faible,Rédiger des communiqués de presse personnalisés et ciblés en fonction des besoins spécifiques de l'université.
+Communication,Chargé de communication,Rédiger un communiqué de presse,Moyen,Rédiger un brouillon de communiqué de presse en générant automatiquement du contenu basé sur des informations fournies.
+Communication,Chargé de communication,Rédiger les communiqués de presse hebdomadaires,fort,Un chatbot IA de type ChatGPT peut rédiger les communiqués de presse hebdomadaires.
+Communication,Chargé de communication,Concevoir les visuels pour les réseaux sociaux,moyen,Générer des idées de contenu et des légendes pour les visuels des réseaux sociaux.
+Communication,Chargé de communication,Organiser les événements promotionnels sur campus,faible,Un chatbot IA de type ChatGPT peut générer des invitations personnalisées et des programmes détaillés pour les événements promotionnels sur campus.
+Communication,Graphiste,Concevoir une affiche pour un événement,moyen,Un chatbot IA de type ChatGPT peut générer des textes de présentation pour l'affiche de l'événement.
+Communication,Responsable de communication,Rédiger des communiqués de presse,fort,Un chatbot IA de type ChatGPT peut rédiger des communiqués de presse.
+Communication,Responsable de communication,Gérer les réseaux sociaux,fort,Un chatbot IA de type ChatGPT peut rédiger des publications pour les réseaux sociaux.
+Communication,Responsable de communication,Créer des contenus de blog,fort,Un chatbot IA de type ChatGPT peut rédiger des contenus de blog.
+Communication,Responsable de communication,Organiser des événements de presse,faible,Rédiger des invitations personnalisées et des communiqués de presse pour les événements.
+Communication,Responsable de communication,Analyser des données de trafic web,moyen,Un chatbot IA de type ChatGPT peut analyser des données de trafic web pour résumer les tendances et les statistiques clés.
+Communication,Responsable de réseaux sociaux,Créer un post pour les réseaux sociaux,fort,Rédiger un post pour les réseaux sociaux.
+Communication,Responsable relations presse,Négocier les accords de diffusion avec les médias,fort,Rédiger les premières versions des accords de diffusion avec les médias en utilisant des modèles de contrats préétablis et en personnalisant les clauses en fonction des exigences spécifiques de chaque média.
+Communication,Responsable relations presse,Préparer les dossiers de presse pour les conférences,moyen,Un chatbot IA de type ChatGPT peut rédiger les communiqués de presse et les descriptions de conférence pour les dossiers de presse.
+Communication,Responsable relations presse,Suivre les mentions de l'université dans les médias,faible,Un chatbot IA de type ChatGPT peut analyser et résumer les articles de presse en ligne pour détecter les mentions de l'université.
+Communication,Webmaster,Mettre à jour des sites web,moyen,Un chatbot IA de type ChatGPT peut rédiger du contenu pour mettre à jour des sites web.
+Communication,Webmaster,Créer des contenus web,fort,"Rédiger des contenus web tels que des articles, des descriptions de produits ou des publications sur les réseaux sociaux."
+Communication,Webmaster,Gérer des bases de données web,moyen,Un chatbot IA de type ChatGPT peut structurer des données pour alimenter et mettre à jour les bases de données web.
+Communication,Webmaster,Optimiser des sites web pour les moteurs de recherche,moyen,Un chatbot IA de type ChatGPT peut générer des métadonnées et des contenus de qualité pour optimiser les sites web pour les moteurs de recherche.
+Communication,Webmaster,Superviser des équipes de développement web,faible,Rédiger des rapports de suivi et d'avancement pour les équipes de développement web.
+Enseignement,Assistant pédagogique,Préparer des supports de cours,Faible,Rédiger des contenus pédagogiques pour les supports de cours.
+Enseignement,Enseignant-chercheur,Préparer des cours,fort,Un chatbot IA de type ChatGPT peut rédiger des plans de cours et des notes de lecture pour préparer des cours.
+Enseignement,Enseignant-chercheur,Donner des cours,faible,Rédiger des plans de cours et des supports de formation personnalisés pour les étudiants.
+Enseignement,Enseignant-chercheur,Mener des recherches,fort,Un chatbot IA de type ChatGPT peut résumer des articles de recherche pour cette tâche.
+Enseignement,Enseignant-chercheur,Rédiger des articles de recherche,fort,Rédiger des brouillons d'articles de recherche en générant du contenu basé sur des données et des informations fournies.
+Enseignement,Enseignant-chercheur,Participer à des conférences internationales,faible,Rédiger des résumés de conférences ou des articles de recherche pour préparer les interventions orales lors de conférences internationales.
+Enseignement,Maître de conférences,Rédiger les propositions de projets de recherche,fort,Rédiger les propositions de projets de recherche.
+Enseignement,Maître de conférences,Animer les séminaires de recherche,faible,Rédiger des résumés de recherche pour préparer les séminaires.
+Enseignement,Maître de conférences,Évaluer les travaux pratiques des étudiants,moyen,Un chatbot IA de type ChatGPT peut corriger les travaux pratiques des étudiants.
+Enseignement,Maître de conférences,Préparer des séminaires,fort,Rédiger des contenus de présentation pour les séminaires.
+Enseignement,Maître de conférences,Donner des séminaires,faible,Rédiger des contenus de présentation pour les séminaires.
+Enseignement,Maître de conférences,Encadrer des travaux de recherche,faible,Rédiger des réponses personnalisées pour guider les étudiants dans leurs travaux de recherche.
+Enseignement,Maître de conférences,Participer à des comités de recherche,faible,Rédiger des rapports de recherche pour les comités de recherche en utilisant les capacités de traitement du langage naturel du chatbot IA.
+Enseignement,Maître de conférences,Rédiger des articles de recherche,fort,Rédiger des brouillons d'articles de recherche en générant du contenu basé sur des données et des informations fournies.
+Enseignement,Professeur,Corriger des copies d'examen,moyen,Un chatbot IA de type ChatGPT peut corriger des copies d'examen.
+Enseignement,Professeur,"Concevoir les supports de cours (diapositives, fiches)",fort,Rédiger les contenus des diapositives et des fiches de cours en fonction des objectifs pédagogiques définis.
+Enseignement,Professeur,Corriger les copies d'examen,fort,Un chatbot IA de type ChatGPT peut corriger les copies d'examen.
+Enseignement,Professeur,Animer les séances de travaux dirigés,faible,Rédiger des réponses personnalisées aux questions des étudiants pendant les séances de travaux dirigés.
+Enseignement,Professeur,Préparer des cours,fort,Un chatbot IA de type ChatGPT peut rédiger des plans de cours et des contenus pédagogiques pour préparer des cours.
+Enseignement,Professeur,Donner des cours,faible,Un chatbot IA de type ChatGPT peut rédiger des plans de cours et des supports de cours pour les enseignants.
+Enseignement,Professeur,Corriger des examens,moyen,Un chatbot IA de type ChatGPT peut corriger automatiquement les réponses écrites des étudiants en fonction de critères prédéfinis.
+Enseignement,Professeur,Encadrer des étudiants,faible,Rédiger des réponses personnalisées aux questions fréquentes des étudiants pour les encadrer de manière efficace.
+Enseignement,Professeur,Participer à des jurys d'examen,faible,Un chatbot IA de type ChatGPT peut structurer des questions d'examen et des critères d'évaluation pour les jurys d'examen.
+Enseignement,Responsable de formation,Évaluer les besoins de formation des étudiants,Faible,Analyser les données des étudiants pour identifier les lacunes de connaissances et générer des recommandations de formation personnalisées.
+Finances et Comptabilité,Comptable,Saisir les factures dans le logiciel comptable,Fort,Un chatbot IA de type ChatGPT peut **extraire** les informations des factures pour les saisir automatiquement dans le logiciel comptable.
+Finances et Comptabilité,Comptable,Gérer des comptes,moyen,Un chatbot IA de type ChatGPT peut générer des rapports de synthèse pour la gestion des comptes.
+Finances et Comptabilité,Comptable,Préparer des déclarations fiscales,moyen,Un chatbot IA de type ChatGPT peut rédiger les déclarations fiscales en fonction des informations fournies par l'utilisateur.
+Finances et Comptabilité,Comptable,Analyser des données comptables,moyen,Un chatbot IA de type ChatGPT peut analyser et résumer les données comptables.
+Finances et Comptabilité,Comptable,Faire des prévisions financières,moyen,Un chatbot IA de type ChatGPT peut analyser des données financières pour rédiger des prévisions de revenus et de dépenses.
+Finances et Comptabilité,Comptable,Classer des documents comptables,faible,Un chatbot IA de type ChatGPT peut classifier les documents comptables.
+Finances et Comptabilité,Comptable universitaire,Saisir les factures fournisseurs,faible,Un chatbot IA de type ChatGPT peut **saisir** automatiquement les informations contenues dans les factures fournisseurs.
+Finances et Comptabilité,Comptable universitaire,Réconcilier les relevés bancaires,moyen,Un chatbot IA de type ChatGPT peut automatiquement **structurer** les données financières pour réconcilier les relevés bancaires.
+Finances et Comptabilité,Comptable universitaire,Générer les bilans financiers trimestriels,fort,Un chatbot IA de type ChatGPT peut générer automatiquement les rapports financiers trimestriels en rédigeant les bilans à partir de données comptables fournies.
+Finances et Comptabilité,Contrôleur de gestion,Analyser les données financières,moyen,Un chatbot IA de type ChatGPT peut analyser et résumer les données financières.
+Finances et Comptabilité,Directeur financier,Élaborer des budgets,moyen,Un chatbot IA de type ChatGPT peut générer des projections de dépenses et des prévisions de revenus pour élaborer des budgets.
+Finances et Comptabilité,Directeur financier,Analyser des données financières,moyen,Un chatbot IA de type ChatGPT peut analyser et résumer des données financières.
+Finances et Comptabilité,Directeur financier,Préparer des rapports de gestion,moyen,Un chatbot IA de type ChatGPT peut rédiger des rapports de gestion en générant automatiquement des textes basés sur des données et des modèles préétablis.
+Finances et Comptabilité,Directeur financier,Négocier des contrats,faible,Rédiger des modèles de contrats personnalisés en fonction des exigences spécifiques des parties impliquées.
+Finances et Comptabilité,Directeur financier,Superviser des équipes financières,faible,Un chatbot IA de type ChatGPT peut analyser les données financières pour résumer les rapports de dépenses et de revenus.
+Finances et Comptabilité,Responsable budgétaire,Élaborer le budget annuel de l'université,moyen,Un chatbot IA de type ChatGPT peut structurer les données financières pour élaborer le budget annuel de l'université.
+Finances et Comptabilité,Trésorier,Établir le budget annuel de l'université,fort,Un chatbot IA de type ChatGPT peut structurer les données financières pour établir le budget annuel de l'université.
+Finances et Comptabilité,Trésorier,Suivre les encaissements et décaissements,moyen,Un chatbot IA de type ChatGPT peut enregistrer les encaissements et décaissements dans un tableau de suivi financier.
+Finances et Comptabilité,Trésorier,Préparer les déclarations fiscales,moyen,Un chatbot IA de type ChatGPT peut rédiger les déclarations fiscales en fonction des informations fournies par l'utilisateur.
+Finances et Comptabilité,Trésorier,Gérer des flux de trésorerie,moyen,Un chatbot IA de type ChatGPT peut générer des rapports de prévisions de trésorerie pour faciliter la planification financière.
+Finances et Comptabilité,Trésorier,Préparer des rapports de trésorerie,moyen,Un chatbot IA de type ChatGPT peut générer des rapports de trésorerie automatisés en rédigeant des synthèses de données financières.
+Finances et Comptabilité,Trésorier,Négocier des contrats de crédit,faible,Rédiger des modèles de contrats de crédit personnalisés en fonction des exigences spécifiques des clients et des réglementations financières.
+Finances et Comptabilité,Trésorier,Superviser des équipes de trésorerie,faible,Un chatbot IA de type ChatGPT peut automatiser la génération de rapports de trésorerie.
+Finances et Comptabilité,Trésorier,Faire des prévisions de trésorerie,moyen,Un chatbot IA de type ChatGPT peut générer des projections de trésorerie en analysant les données financières historiques et en appliquant des modèles prédictifs.
+Informatique NTIC,Administrateur réseau,Gérer des réseaux,moyen,Un chatbot IA de type ChatGPT peut analyser les données de trafic pour optimiser la configuration des réseaux.
+Informatique NTIC,Administrateur réseau,Superviser des équipes de maintenance,faible,Un chatbot IA de type ChatGPT peut générer des rapports de maintenance pour superviser des équipes de maintenance.
+Informatique NTIC,Administrateur réseau,Préparer des rapports de maintenance,moyen,Un chatbot IA de type ChatGPT peut rédiger des rapports de maintenance en fonction des données techniques et des informations fournies.
+Informatique NTIC,Administrateur réseau,Faire des prévisions de maintenance,moyen,Un chatbot IA de type ChatGPT peut analyser les données historiques de maintenance pour prédire les pannes futures et générer des calendriers de maintenance préventive.
+Informatique NTIC,Administrateur réseau,Classer des documents de maintenance,faible,Un chatbot IA de type ChatGPT peut **classer** des documents de maintenance en fonction de leur contenu et de leurs métadonnées.
+Informatique NTIC,Administrateur système,Gérer les serveurs de l'université,faible,Un chatbot IA de type ChatGPT peut analyser les journaux de connexion pour détecter les problèmes de serveurs de l'université.
+Informatique NTIC,Développeur web,Créer une nouvelle page web,fort,Un chatbot IA de type ChatGPT peut générer le contenu initial de la page web.
+Informatique NTIC,Développeur web,Créer des applications web,moyen,Un chatbot IA de type ChatGPT peut générer du code pour créer des applications web.
+Informatique NTIC,Développeur web,Mettre à jour des sites web,moyen,Un chatbot IA de type ChatGPT peut rédiger du contenu pour mettre à jour des sites web.
+Informatique NTIC,Développeur web,Gérer des bases de données web,moyen,Un chatbot IA de type ChatGPT peut structurer les données pour une meilleure organisation et recherche dans les bases de données web.
+Informatique NTIC,Développeur web,Optimiser des sites web pour les moteurs de recherche,moyen,Un chatbot IA de type ChatGPT peut générer des métadonnées et des contenus de qualité pour optimiser les sites web pour les moteurs de recherche.
+Informatique NTIC,Développeur web,Superviser des équipes de développement web,faible,Rédiger des rapports de suivi et d'avancement pour les équipes de développement web.
+Informatique NTIC,Directeur des systèmes d'information,Élaborer des stratégies informatiques,moyen,Un chatbot IA de type ChatGPT peut générer des propositions de stratégies informatiques personnalisées en fonction des besoins et des objectifs spécifiques de l'entreprise.
+Informatique NTIC,Directeur des systèmes d'information,Superviser des équipes informatiques,faible,Un chatbot IA de type ChatGPT peut structurer des rapports de projet pour les équipes informatiques.
+Informatique NTIC,Directeur des systèmes d'information,Gérer des budgets informatiques,moyen,Un chatbot IA de type ChatGPT peut analyser les dépenses et rédiger des rapports de budget informatique détaillés.
+Informatique NTIC,Directeur des systèmes d'information,Négocier des contrats de maintenance,faible,Rédiger des modèles de contrats de maintenance personnalisés en fonction des besoins spécifiques des clients et des entreprises.
+Informatique NTIC,Directeur des systèmes d'information,Préparer des rapports de gestion,moyen,Un chatbot IA de type ChatGPT peut rédiger des rapports de gestion en générant automatiquement des textes basés sur des données et des modèles préétablis.
+Informatique NTIC,Responsable informatique,Concevoir la stratégie de cybersécurité,fort,Rédiger un plan de cybersécurité personnalisé en fonction des besoins et des vulnérabilités spécifiques d'une organisation.
+Informatique NTIC,Responsable informatique,Superviser la maintenance des serveurs,moyen,Analyser les journaux de serveurs pour détecter les problèmes potentiels et générer des rapports de maintenance.
+Informatique NTIC,Responsable informatique,Mettre à jour les licences logicielles,faible,Un chatbot IA de type ChatGPT peut répertorier les licences logicielles à mettre à jour.
+Informatique NTIC,Technicien support,Résoudre les problèmes informatiques des utilisateurs,moyen,Un chatbot IA de type ChatGPT peut diagnostiquer les problèmes informatiques des utilisateurs.
+Informatique NTIC,Technicien support informatique,Diagnostiquer les pannes de matériel,faible,Un chatbot IA de type ChatGPT peut analyser les symptômes de panne pour rédiger un diagnostic préliminaire du matériel.
+Informatique NTIC,Technicien support informatique,Installer les logiciels sur les postes de travail,moyen,Rédiger les instructions détaillées pour l'installation des logiciels sur les postes de travail.
+Informatique NTIC,Technicien support informatique,Répondre aux tickets d'assistance des utilisateurs,moyen,Rédiger des réponses personnalisées et automatisées aux tickets d'assistance des utilisateurs.
+Juridique,Assistant juridique,Rechercher des jurisprudences,moyen,Un chatbot IA de type ChatGPT peut résumer les jurisprudences pour faciliter leur analyse.
+Juridique,Avocat,Rédiger un contrat,fort,Rédiger un contrat.
+Juridique,Avocat,Plaider des affaires,faible,Rédiger des arguments et des contre-arguments pour plaider des affaires.
+Juridique,Avocat,Rédiger des mémoires,fort,Un chatbot IA de type ChatGPT peut rédiger des mémoires.
+Juridique,Avocat,Analyser des données juridiques,moyen,Un chatbot IA de type ChatGPT peut résumer des documents juridiques pour faciliter leur analyse.
+Juridique,Avocat,Préparer des dossiers juridiques,moyen,Un chatbot IA de type ChatGPT peut rédiger des documents juridiques de base pour préparer des dossiers juridiques.
+Juridique,Avocat,Négocier des contrats,faible,Un chatbot IA de type ChatGPT peut rédiger les premières versions de contrats en fonction de modèles et de clauses standardisées.
+Juridique,Conseiller juridique,Analyser les dossiers de propriété intellectuelle,fort,Un chatbot IA de type ChatGPT peut résumer les dossiers de propriété intellectuelle.
+Juridique,Conseiller juridique,Rédiger les avis juridiques internes,fort,Rédiger les premières versions des avis juridiques internes en fonction de modèles et de données juridiques existantes.
+Juridique,Conseiller juridique,Organiser les formations juridiques pour le personnel,moyen,Un chatbot IA de type ChatGPT peut structurer les programmes de formation juridique en fonction des besoins spécifiques du personnel.
+Juridique,Conseiller juridique,Rédiger des avis juridiques,fort,Rédiger des avant-projets d'avis juridiques en analysant les données fournies et en appliquant les règles de droit pertinentes.
+Juridique,Conseiller juridique,Analyser des données juridiques,moyen,Un chatbot IA de type ChatGPT peut résumer des documents juridiques pour faciliter leur analyse.
+Juridique,Conseiller juridique,Préparer des dossiers juridiques,moyen,Un chatbot IA de type ChatGPT peut rédiger des documents juridiques de base pour préparer des dossiers juridiques.
+Juridique,Conseiller juridique,Négocier des contrats,faible,Un chatbot IA de type ChatGPT peut rédiger les premières versions de contrats en fonction de modèles et de clauses standardisées.
+Juridique,Conseiller juridique,Superviser des équipes juridiques,faible,Un chatbot IA de type ChatGPT peut analyser et résumer les documents juridiques pour les équipes juridiques.
+Juridique,Juriste,Rédiger des contrats,fort,Rédiger des contrats.
+Juridique,Juriste,Analyser des données juridiques,moyen,Un chatbot IA de type ChatGPT peut résumer des documents juridiques pour faciliter leur analyse.
+Juridique,Juriste,Préparer des dossiers juridiques,moyen,Un chatbot IA de type ChatGPT peut rédiger des documents juridiques de base pour préparer des dossiers juridiques.
+Juridique,Juriste,Négocier des contrats,faible,Rédiger des modèles de contrats personnalisés en fonction des exigences spécifiques des parties impliquées.
+Juridique,Juriste,Superviser des équipes juridiques,faible,Un chatbot IA de type ChatGPT peut analyser et structurer les documents juridiques pour les équipes juridiques.
+Juridique,Juriste universitaire,Rédiger les contrats de collaboration,fort,Un chatbot IA de type ChatGPT peut rédiger les premières versions de contrats de collaboration en fonction de modèles et de données fournies.
+Juridique,Juriste universitaire,Conseiller les départements sur la conformité réglementaire,fort,Rédiger des rapports de conformité réglementaire personnalisés pour les départements universitaires.
+Juridique,Juriste universitaire,Gérer les litiges avec les fournisseurs,moyen,Rédiger des lettres de réclamation et de négociation pour les litiges avec les fournisseurs.
+Juridique,Responsable juridique,Conseiller les services de l'université sur des questions juridiques,moyen,Rédiger des réponses personnalisées à des questions juridiques fréquentes pour conseiller les services de l'université.
+Pédagogie et accompagnement des étudiants,Conseiller d'orientation,Donner des conseils d'orientation,faible,Rédiger des lettres de motivation personnalisées pour les étudiants en fonction de leurs intérêts et de leurs objectifs académiques.
+Pédagogie et accompagnement des étudiants,Conseiller d'orientation,Encadrer des étudiants,faible,Rédiger des réponses personnalisées pour aider les étudiants à résoudre leurs problèmes ou questions spécifiques.
+Pédagogie et accompagnement des étudiants,Conseiller d'orientation,Participer à des comités d'orientation,faible,Rédiger des rapports de synthèse pour les comités d'orientation en analysant les données et les tendances liées aux usages de l'IA à l'université.
+Pédagogie et accompagnement des étudiants,Conseiller d'orientation,Rédiger des rapports d'orientation,moyen,Rédiger des rapports d'orientation personnalisés en fonction des données fournies.
+Pédagogie et accompagnement des étudiants,Conseiller d'orientation,Créer des plans d'orientation,fort,Un chatbot IA de type ChatGPT peut générer des plans d'orientation personnalisés en fonction des objectifs et des besoins spécifiques des étudiants.
+Pédagogie et accompagnement des étudiants,Conseiller pédagogique,Accompagner les étudiants dans la construction de leur projet de recherche,fort,Un chatbot IA de type ChatGPT peut structurer les idées et les objectifs de recherche pour les étudiants.
+Pédagogie et accompagnement des étudiants,Conseiller pédagogique,Analyser les résultats d'évaluation des cours,moyen,Un chatbot IA de type ChatGPT peut résumer les résultats d'évaluation des cours.
+Pédagogie et accompagnement des étudiants,Conseiller pédagogique,Organiser les ateliers de tutorat,faible,Un chatbot IA de type ChatGPT peut structurer les programmes de tutorat en créant des plans de cours personnalisés pour les ateliers.
+Pédagogie et accompagnement des étudiants,Ingénieur pédagogique,Concevoir les parcours d'apprentissage en ligne,fort,Un chatbot IA de type ChatGPT peut structurer les contenus pédagogiques pour concevoir les parcours d'apprentissage en ligne.
+Pédagogie et accompagnement des étudiants,Ingénieur pédagogique,Évaluer l'efficacité des outils pédagogiques,moyen,Un chatbot IA de type ChatGPT peut analyser les données d'utilisation et les résultats d'apprentissage pour évaluer l'efficacité des outils pédagogiques.
+Pédagogie et accompagnement des étudiants,Ingénieur pédagogique,Former les enseignants aux nouvelles technologies,moyen,Rédiger des guides pédagogiques personnalisés pour former les enseignants aux nouvelles technologies.
+Pédagogie et accompagnement des étudiants,Pédagogue,Créer des plans de formation,fort,Un chatbot IA de type ChatGPT peut générer des plans de formation personnalisés en fonction des objectifs et des besoins spécifiques des étudiants.
+Pédagogie et accompagnement des étudiants,Pédagogue,Donner des conseils pédagogiques,faible,Rédiger des plans de cours personnalisés en fonction des objectifs pédagogiques et des besoins des étudiants.
+Pédagogie et accompagnement des étudiants,Pédagogue,Encadrer des étudiants,faible,Rédiger des réponses personnalisées pour aider les étudiants à comprendre les concepts et les exercices.
+Pédagogie et accompagnement des étudiants,Pédagogue,Participer à des comités pédagogiques,faible,Rédiger des rapports de réunion et des procès-verbaux pour les comités pédagogiques.
+Pédagogie et accompagnement des étudiants,Pédagogue,Rédiger des rapports pédagogiques,moyen,Un chatbot IA de type ChatGPT peut rédiger des rapports pédagogiques.
+Pédagogie et accompagnement des étudiants,Tuteur,Donner des conseils pédagogiques,faible,Rédiger des plans de cours personnalisés en fonction des objectifs pédagogiques et des besoins des étudiants.
+Pédagogie et accompagnement des étudiants,Tuteur,Encadrer des étudiants,faible,Rédiger des réponses personnalisées aux questions fréquentes des étudiants pour les encadrer de manière efficace.
+Pédagogie et accompagnement des étudiants,Tuteur,Participer à des comités pédagogiques,faible,Rédiger des rapports de réunion et des procès-verbaux pour les comités pédagogiques.
+Pédagogie et accompagnement des étudiants,Tuteur,Rédiger des rapports pédagogiques,moyen,Rédiger des rapports pédagogiques détaillés et personnalisés à l'aide de données spécifiques sur les étudiants.
+Pédagogie et accompagnement des étudiants,Tuteur,Créer des plans de formation,fort,Un chatbot IA de type ChatGPT peut générer des plans de formation personnalisés en fonction des objectifs et des besoins spécifiques des étudiants.
+Pédagogie et accompagnement des étudiants (ingénierie pédagogique),Chargé d'orientation,Accompagner les étudiants dans leur choix de formation,moyen,Un chatbot IA de type ChatGPT peut proposer des parcours de formation personnalisés en analysant les intérêts et les objectifs des étudiants.
+Pédagogie et accompagnement des étudiants (ingénierie pédagogique),Ingénieur pédagogique,Concevoir un programme de formation,moyen,Un chatbot IA de type ChatGPT peut générer des contenus de cours et des plans de formation pour le programme de formation.
+Pédagogie et accompagnement des étudiants (ingénierie pédagogique),Responsable d'un centre d'aide aux étudiants,Organiser des ateliers d'aide aux étudiants,moyen,Rédiger des réponses personnalisées aux questions fréquentes des étudiants pour préparer les ateliers d'aide.
+Recherche et ingénierie,Chercheur,Rédiger un article scientifique,moyen,Rédiger un article scientifique en générant des contenus de base et en structurant les idées de recherche.
+Recherche et ingénierie,Chercheur,Mener des recherches,fort,Un chatbot IA de type ChatGPT peut résumer des articles de recherche pour cette tâche.
+Recherche et ingénierie,Chercheur,Rédiger des articles de recherche,fort,Rédiger des brouillons d'articles de recherche en générant du contenu basé sur des données et des informations fournies.
+Recherche et ingénierie,Chercheur,Préparer des rapports de recherche,moyen,Un chatbot IA de type ChatGPT peut rédiger des rapports de recherche.
+Recherche et ingénierie,Chercheur,Participer à des conférences internationales,faible,Rédiger des résumés de conférences ou des articles de recherche pour préparer les interventions orales lors de conférences internationales.
+Recherche et ingénierie,Chercheur,Encadrer des étudiants en recherche,faible,Un chatbot IA de type ChatGPT peut structurer des plans de recherche pour les étudiants.
+Recherche et ingénierie,Chercheur postdoctoral,Rédiger les articles scientifiques,fort,Rédiger les premières versions d'articles scientifiques en générant du contenu basé sur des recherches et des données existantes.
+Recherche et ingénierie,Chercheur postdoctoral,Présenter les résultats aux conférences internationales,fort,Rédiger des résumés de présentation pour les conférences internationales.
+Recherche et ingénierie,Chercheur postdoctoral,Superviser les assistants de recherche,moyen,Un chatbot IA de type ChatGPT peut rédiger des rapports de recherche pour les assistants de recherche.
+Recherche et ingénierie,Directeur de recherche,Élaborer des stratégies de recherche,moyen,Un chatbot IA de type ChatGPT peut générer des propositions de stratégies de recherche personnalisées en fonction des objectifs et des besoins spécifiques de l'utilisateur.
+Recherche et ingénierie,Directeur de recherche,Superviser des équipes de recherche,faible,Rédiger des rapports de synthèse pour évaluer les progrès des équipes de recherche.
+Recherche et ingénierie,Directeur de recherche,Gérer des budgets de recherche,moyen,Un chatbot IA de type ChatGPT peut calculer les dépenses et les revenus pour établir des prévisions budgétaires précises.
+Recherche et ingénierie,Directeur de recherche,Négocier des contrats de recherche,faible,Rédiger les premières versions de contrats de recherche en fonction de modèles et de clauses standards pour accélérer le processus de négociation.
+Recherche et ingénierie,Directeur de recherche,Préparer des rapports de gestion,moyen,Un chatbot IA de type ChatGPT peut rédiger des rapports de gestion en générant automatiquement des textes basés sur des données et des modèles prédéfinis.
+Recherche et ingénierie,Ingénieur de recherche,Analyser des données de recherche,fort,Un chatbot IA de type ChatGPT peut résumer les données de recherche pour en extraire les informations clés.
+Recherche et ingénierie,Ingénieur de recherche,Concevoir les protocoles expérimentaux,fort,Rédiger les protocoles expérimentaux détaillés pour les tests et les validations nécessaires.
+Recherche et ingénierie,Ingénieur de recherche,Analyser les données expérimentales,fort,Un chatbot IA de type ChatGPT peut analyser et résumer les données expérimentales.
+Recherche et ingénierie,Ingénieur de recherche,Gérer les équipements de laboratoire,moyen,Un chatbot IA de type ChatGPT peut rédiger des rapports d'inventaire et de maintenance pour les équipements de laboratoire.
+Recherche et ingénierie,Ingénieur de recherche,Mener des recherches,fort,Un chatbot IA de type ChatGPT peut résumer des articles de recherche pour cette tâche.
+Recherche et ingénierie,Ingénieur de recherche,Rédiger des rapports de recherche,moyen,Un chatbot IA de type ChatGPT peut rédiger des rapports de recherche.
+Recherche et ingénierie,Ingénieur de recherche,Préparer des présentations de recherche,moyen,Un chatbot IA de type ChatGPT peut rédiger des contenus de présentation de recherche.
+Recherche et ingénierie,Ingénieur de recherche,Participer à des comités de recherche,faible,Rédiger des rapports de recherche pour les comités de recherche en utilisant les capacités de traitement du langage naturel du chatbot IA.
+Recherche et ingénierie,Ingénieur de recherche,Encadrer des étudiants en recherche,faible,Un chatbot IA de type ChatGPT peut structurer des plans de recherche pour les étudiants.
+Recherche et ingénierie,Responsable de projet de recherche,Gérer un projet de recherche,moyen,Rédiger des rapports d'avancement et des comptes rendus de réunions pour le projet de recherche.
+Ressources humaines,Chargé de recrutement,Analyser les candidatures,moyen,Un chatbot IA de type ChatGPT peut **classifier** les candidatures en fonction de critères prédéfinis pour une analyse préliminaire.
+Ressources humaines,Chargé de recrutement,Rédiger les annonces d'emploi,fort,Rédiger les annonces d'emploi.
+Ressources humaines,Chargé de recrutement,Trier les CV reçus,moyen,"Un chatbot IA de type ChatGPT peut **classer** les CV reçus en fonction de critères prédéfinis tels que les compétences, l'expérience et les qualifications."
+Ressources humaines,Chargé de recrutement,Conduire les entretiens téléphoniques,faible,Un chatbot IA de type ChatGPT peut transcrire les entretiens téléphoniques.
+Ressources humaines,Directeur des ressources humaines,Élaborer des stratégies de recrutement,moyen,Un chatbot IA de type ChatGPT peut générer des descriptions de poste personnalisées pour les stratégies de recrutement.
+Ressources humaines,Directeur des ressources humaines,Superviser des équipes de recrutement,faible,Un chatbot IA de type ChatGPT peut automatiser la rédaction de lettres de refus ou d'acceptation pour les candidats.
+Ressources humaines,Directeur des ressources humaines,Gérer des budgets de formation,moyen,Un chatbot IA de type ChatGPT peut calculer les coûts de formation et proposer des répartitions budgétaires optimales.
+Ressources humaines,Directeur des ressources humaines,Négocier des contrats de travail,faible,Rédiger des modèles de contrats de travail personnalisés en fonction des exigences spécifiques de l'entreprise.
+Ressources humaines,Directeur des ressources humaines,Préparer des rapports de gestion,moyen,Un chatbot IA de type ChatGPT peut rédiger des rapports de gestion en générant automatiquement des textes basés sur des données et des modèles préétablis.
+Ressources humaines,Formateur,Créer des plans de formation,fort,Un chatbot IA de type ChatGPT peut générer des plans de formation personnalisés en fonction des objectifs et des besoins spécifiques des étudiants.
+Ressources humaines,Formateur,Donner des formations,faible,Rédiger des contenus pédagogiques personnalisés pour les formations en utilisant un chatbot IA de type ChatGPT.
+Ressources humaines,Formateur,Évaluer des formations,moyen,Un chatbot IA de type ChatGPT peut évaluer et rédiger des rapports de formation en analysant les données et les retours d'expérience.
+Ressources humaines,Formateur,Participer à des comités de formation,faible,Rédiger des rapports de réunion et des procès-verbaux pour les comités de formation.
+Ressources humaines,Formateur,Rédiger des rapports de formation,moyen,Un chatbot IA de type ChatGPT peut rédiger des rapports de formation.
+Ressources humaines,Responsable de la formation,Organiser des formations pour les personnels,moyen,Rédiger des contenus de formation personnalisés pour les personnels en fonction de leurs besoins spécifiques.
+Ressources humaines,Responsable de recrutement,Lancer des campagnes de recrutement,moyen,Rédiger des descriptions de postes et des offres d'emploi personnalisées pour les campagnes de recrutement.
+Ressources humaines,Responsable de recrutement,Analyser des CV,moyen,Un chatbot IA de type ChatGPT peut analyser et résumer les informations clés présentes dans les CV.
+Ressources humaines,Responsable de recrutement,Organiser des entretiens de recrutement,faible,Un chatbot IA de type ChatGPT peut rédiger des questions d'entretien personnalisées pour les candidats en fonction des exigences du poste à pourvoir.
+Ressources humaines,Responsable de recrutement,Préparer des offres d'emploi,moyen,Rédiger des descriptions de postes et des exigences pour les offres d'emploi.
+Ressources humaines,Responsable de recrutement,Superviser des équipes de recrutement,faible,Un chatbot IA de type ChatGPT peut automatiser la rédaction de lettres de refus ou d'acceptation pour les candidats.
+Ressources humaines,Responsable RH,Élaborer les fiches de poste,moyen,Rédiger les descriptions de poste et les exigences spécifiques pour les futurs employés en fonction des besoins de l'entreprise.
+Ressources humaines,Responsable RH,Mettre en place les procédures d'évaluation de performance,moyen,Un chatbot IA de type ChatGPT peut générer des rapports de performance détaillés pour évaluer les résultats des processus universitaires.
+Ressources humaines,Responsable RH,Organiser les séances de formation interne,faible,Un chatbot IA de type ChatGPT peut structurer les contenus de formation en créant des plans de cours détaillés pour les séances de formation interne.
+Scolarité et gestion des étudiants,Administrateur des examens,Organiser les sessions d'examens,faible,Un chatbot IA de type ChatGPT peut générer des horaires d'examen personnalisés pour les étudiants et les enseignants.
+Scolarité et gestion des étudiants,Conseiller d'orientation,Donner des conseils d'orientation,faible,Rédiger des lettres de motivation personnalisées pour les étudiants en fonction de leurs intérêts et de leurs objectifs académiques.
+Scolarité et gestion des étudiants,Conseiller d'orientation,Encadrer des étudiants,faible,Rédiger des réponses personnalisées aux questions fréquentes des étudiants pour les encadrer de manière efficace.
+Scolarité et gestion des étudiants,Conseiller d'orientation,Participer à des comités d'orientation,faible,Rédiger des rapports de synthèse pour les comités d'orientation en analysant les données et les tendances liées aux usages de l'IA à l'université.
+Scolarité et gestion des étudiants,Conseiller d'orientation,Rédiger des rapports d'orientation,moyen,Rédiger des rapports d'orientation personnalisés en fonction des données fournies.
+Scolarité et gestion des étudiants,Conseiller d'orientation,Créer des plans d'orientation,fort,Un chatbot IA de type ChatGPT peut générer des plans d'orientation personnalisés en fonction des objectifs et des besoins spécifiques des étudiants.
+Scolarité et gestion des étudiants,Conseiller pédagogique,Accompagner les étudiants dans leur parcours scolaire,moyen,Rédiger des plans de révision personnalisés pour les étudiants en fonction de leurs objectifs et de leurs progrès scolaires.
+Scolarité et gestion des étudiants,Coordinateur d'inscription,Vérifier les pièces justificatives des dossiers d'inscription,faible,Un chatbot IA de type ChatGPT peut vérifier les pièces justificatives des dossiers d'inscription en les comparant à une liste de critères prédéfinis et en signalant les anomalies ou les documents manquants.
+Scolarité et gestion des étudiants,Coordinateur d'inscription,Enregistrer les nouvelles inscriptions dans le système,faible,Le chatbot IA peut automatiser l'enregistrement des nouvelles inscriptions en les saisissant directement dans le système.
+Scolarité et gestion des étudiants,Coordinateur d'inscription,Répondre aux demandes d'information des futurs étudiants,faible,Un chatbot IA de type ChatGPT peut rédiger des réponses personnalisées aux demandes d'information des futurs étudiants.
+Scolarité et gestion des étudiants,Gestionnaire de bourse,Gérer des dossiers de bourse,moyen,Un chatbot IA de type ChatGPT peut structurer les informations personnelles et scolaires des candidats pour gérer efficacement les dossiers de bourse.
+Scolarité et gestion des étudiants,Gestionnaire de bourse,Préparer des rapports de bourse,moyen,Un chatbot IA de type ChatGPT peut rédiger les rapports de bourse en fonction des données financières fournies.
+Scolarité et gestion des étudiants,Gestionnaire de bourse,Répondre aux demandes d'information,faible,Un chatbot IA de type ChatGPT peut rédiger des réponses personnalisées aux demandes d'information.
+Scolarité et gestion des étudiants,Gestionnaire de bourse,Classer des documents de bourse,faible,Un chatbot IA de type ChatGPT peut **classer** des documents de bourse.
+Scolarité et gestion des étudiants,Gestionnaire de bourse,Superviser des équipes de bourse,faible,Un chatbot IA de type ChatGPT peut structurer les données de candidature pour faciliter l'évaluation des équipes de bourse.
+Scolarité et gestion des étudiants,Responsable d'inscription,Gérer les inscriptions des étudiants,moyen,Un chatbot IA de type ChatGPT peut automatiser la réponse aux questions fréquentes des étudiants sur les inscriptions.
+Scolarité et gestion des étudiants,Responsable scolarité,Mettre à jour le registre des inscriptions,faible,Un chatbot IA de type ChatGPT peut automatiquement **mettre à jour** les informations dans le registre des inscriptions.
+Scolarité et gestion des étudiants,Responsable scolarité,Gérer les dossiers de validation des crédits,moyen,Un chatbot IA de type ChatGPT peut automatiser la vérification des informations dans les dossiers de validation des crédits.
+Scolarité et gestion des étudiants,Responsable scolarité,Organiser les séances d'orientation des nouveaux étudiants,faible,Rédiger des réponses personnalisées aux questions fréquentes des nouveaux étudiants pour les séances d'orientation.
+Scolarité et gestion des étudiants,Secrétaire de scolarité,Gérer des dossiers d'inscription,moyen,Un chatbot IA de type ChatGPT peut structurer les informations des dossiers d'inscription.
+Scolarité et gestion des étudiants,Secrétaire de scolarité,Préparer des certificats de scolarité,moyen,Un chatbot IA de type ChatGPT peut générer les certificats de scolarité.
+Scolarité et gestion des étudiants,Secrétaire de scolarité,Répondre aux demandes d'information,faible,Un chatbot IA de type ChatGPT peut rédiger des réponses personnalisées aux demandes d'information.
+Scolarité et gestion des étudiants,Secrétaire de scolarité,Classer des documents de scolarité,faible,Un chatbot IA de type ChatGPT peut classifier des documents de scolarité.
+Scolarité et gestion des étudiants,Secrétaire de scolarité,Superviser des équipes de scolarité,faible,Un chatbot IA de type ChatGPT peut générer des rapports de scolarité personnalisés pour chaque étudiant en fonction de leurs performances et de leurs progrès.
